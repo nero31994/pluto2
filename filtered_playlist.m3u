@@ -15,6 +15,19 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" group-title="Local", TFC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Kapamilya_Channel_HD_2022_On_Screen_Bugs_Logo.png/revision/latest?cb=20240523152826" group-title="Local", KAPAMILYA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
