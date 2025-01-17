@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB1aCGvTx89kbzBhjnoBwuk41MgIUgoINxCQ&usqp=CAU" group-title="Local", bilyonaryoch
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB1aCGvTx89kbzBhjnoBwuk41MgIUgoINxCQ&usqp=CAU" group-title="Local", BILYONARYO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -13,7 +13,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 
 
-#EXTINF:-1 tvg-id="RPTV.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/rptv%20logo%20final-02.png" group-title="Local", Rptv
+#EXTINF:-1 tvg-id="RPTV.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/rptv%20logo%20final-02.png" group-title="Local", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -27,7 +27,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TrueFM-logo.png" group-title="Local", truefmtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TrueFM-logo.png" group-title="Local", TRUE FM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -41,7 +41,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hitsnow
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HITS NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -55,7 +55,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbohd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -69,7 +69,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbofam
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HBO FAMILY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -83,7 +83,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -97,7 +97,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbosign
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -111,7 +111,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_hbohits
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -125,7 +125,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_tvnmovie
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TVN MOVIE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,7 +139,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_dreamworktag
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", DREAMWORKS TAG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -153,7 +153,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_tvnpre
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TVN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -167,7 +167,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", dr_popupppvhd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", POPUP PVHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -181,7 +181,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_mptv
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", MPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -195,7 +195,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", WWF
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", WWE 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -209,7 +209,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", a2z
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -223,7 +223,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", dreamworks_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", DREAMWORKS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -251,7 +251,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tap_edge
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TAP EDGE 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -265,7 +265,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tap_sports
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TAP SPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -279,7 +279,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", onesportsplus_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ONE SPORTS+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -307,7 +307,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/14
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", pbarush_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", PBA RUSH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -321,7 +321,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", Kapamilya 
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", KAPAMILYA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -335,7 +335,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", kbs_world
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", KBS WORLD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -349,7 +349,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", onenews_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ONE NEWS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -363,7 +363,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", LIFETIME
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -377,7 +377,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", hgtv_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -391,7 +391,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", uaap_varsity
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", UAAP VARSITY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -405,7 +405,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", hits_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HITS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -433,7 +433,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/35
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", oneph
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -447,7 +447,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", foodnetwork_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", FOOD NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -461,7 +461,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", depedchannel
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", DEP ED CHANNEL 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -475,7 +475,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tv5
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TV5 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -489,7 +489,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", history_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", HISTORY HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -503,7 +503,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", fashiontv_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", FASHION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -517,7 +517,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", BLOOMBERG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -531,7 +531,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", Teleradyo 
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TELERADYO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -545,7 +545,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", onesports
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ONESPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -559,7 +559,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", warnertv_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", WARNER TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -573,7 +573,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", animax
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ANIMAX 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -587,7 +587,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cgtn
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", CGTN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -601,7 +601,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", axn
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", AXN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -615,7 +615,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", moonbug_kids
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", MOONBUG KIDS SD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -629,7 +629,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", france24
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", FRANCE24 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -643,7 +643,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", abc_australia
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ABC AUSTRALIA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -671,7 +671,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", buko
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", BUKO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -685,7 +685,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", knowledge_channel
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", KNOWLEDGE CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -699,7 +699,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", billiard_tv
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", BILLIARD TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -713,7 +713,7 @@ https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-511/stream.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", NICKELODEON 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -727,7 +727,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", sari_sari
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SARISARI 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -741,7 +741,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ibc13
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", IBC 13 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -755,7 +755,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", channelnews_asia
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", CHANNEL NEWS ASIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -769,7 +769,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tvup_prd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TVUP PRD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -783,7 +783,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tvmaria_prd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TV MARIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -797,7 +797,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", lotusmacau_prd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", LOTUS MACAU 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -811,7 +811,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cg_tagalogmovie
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TAGALOG MOVIE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -825,7 +825,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", cartoon_net_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", CARTOON NETWORK HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -839,7 +839,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", animal_planet
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ANIMAL PLANET 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -853,7 +853,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SPOTV_HD
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SPOTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -867,7 +867,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", premiersports_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", PREMIER SPORTS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -881,7 +881,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", blueant_extreme
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ROCK ACTION 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -895,7 +895,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bbcearth_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", BBC EARTH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -909,7 +909,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SPOTV_HD2
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", SPOTV HD2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -923,7 +923,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", rock_entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ROCK ENTERTAINMENT 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -937,7 +937,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", discovery
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", DISCOVERY 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -951,7 +951,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", kix_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", KIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -965,7 +965,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bbcworld_news
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", BBC WORLD NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -979,7 +979,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", travel_channel
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TRAVEL CHANNEL 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -993,7 +993,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", premier_tennishd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", PREMIER TENNIS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1007,7 +1007,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", pbo
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", PBO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1021,7 +1021,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", viva
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", VIVA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1035,7 +1035,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", asianfoodnetwork
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ASIAN FOOD NETWORK 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1049,7 +1049,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", nickjr
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", NICKJR 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1063,7 +1063,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tapmovies_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TAP MOVIES HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1077,7 +1077,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", taptv
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TAP TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1091,7 +1091,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tapactionflix_hd
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TAPACTIONFLIX HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1105,7 +1105,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", thrill
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", THRILL 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1119,7 +1119,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", crime_investigation
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", CRIME INVESTIGATION 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1133,7 +1133,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", tech_storm
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", TECH STORM 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
