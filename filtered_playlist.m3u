@@ -620,7 +620,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", ANIMAX 
+#EXTINF:-1 tvg-id="Animax.ph" tvg-logo="logo_url" group-title="Local", ANIMAX 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
